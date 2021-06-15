@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-easybank-landing-page-using-flexbox-and-css-grid-3R2oAJ5p_m)
-- Live Site URL: [live site URL here](https://vigorous-lamport-a822dd.netlify.app/)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-curved-sections-using-flexbox-and-js-esDdBz88S)
+- Live Site URL: [live site URL](https://hopeful-ardinghelli-0b4cf9.netlify.app/)
 
 ## Built with
 
