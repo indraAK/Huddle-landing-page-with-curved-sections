@@ -498,7 +498,7 @@ footer::before {
 
   .feature-content,
   .feature:nth-child(even) .feature-content {
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
 
   .feature:nth-child(odd) .feature-content {
